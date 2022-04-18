@@ -1,0 +1,155 @@
+.head
+{
+    background-color: #000;
+    height: 100px;
+}
+.head-body
+{
+    background-color: #000;
+}
+.log-img
+{
+    margin-top: 5px;
+}
+
+#srch-frm
+{
+  margin-top: 30px;
+}
+
+.page-body
+{
+  margin-top: 90px;
+  
+}
+#cont-pad
+{
+  padding: 0px;
+  text-align: center;
+}
+.fnt-color
+{
+  color: #4d4d4d;
+}
+.a-tag-css
+{
+  text-decoration: solid;
+  color: #4d4d4d;
+  font-family: Segoe UI;
+}
+
+.foot
+{
+  height: 280px;
+  color: #fff ;
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+
+}
+.div-bdr
+{
+  border-right: 1px solid #fff;
+}
+
+#bgs
+{
+  width: 100%;
+  z-index: 0;
+}
+#div-bdr
+{
+  border: 1px solid #e2e2e2;
+  padding: 15px;
+}
+
+.imgcontainer
+{
+ 
+  text-align: center;
+  margin-top: 30px;
+}
+.login-container 
+{
+  border: 1px solid #e2e2e2;
+  border-radius: 10px;
+  padding: 15px;
+  background-color: #e2e2e2;
+ 
+}
+
+/* ===================================Navebar Styles Start here========================================================== */
+#ul-container
+{
+    float: left;
+    margin-top: 30px;
+}
+
+#ul-container ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  #ul-container li {
+    float: left;
+    width: 100px;
+    
+  }
+  
+  #ul-container li a {
+    display: block;
+    text-decoration: none;
+    /* padding: 8px;
+    color: #fff;
+    font-family: Proxima-Nova; */
+    width: auto;
+    text-align: center;
+    font: normal normal normal 16px/21px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    
+
+    
+  }
+
+  #ul-container li a:hover {
+    /* background-color: 	#dee2e6; */
+    border: 2px solid;
+    border-left-style: hidden;
+    border-right-style: hidden;
+    border-top-style: hidden;
+    color: #fff;
+    text-decoration: none;
+    
+  }
+/* *********************************Navebar Styles END here========================================================== */
+.navigation ul
+{
+	list-style: none;
+
+}
+.navigation ul li a
+{
+	width: 100%;
+	height: 30px;
+	display: block;
+	background-color:#4d4d4d;
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+	font-size: 16px;
+}
+
+.navigation ul li a:hover {
+  background-color: #7d7d7d;
+}
+
+.new2
+{
+	border: 3px solid black;
+}
